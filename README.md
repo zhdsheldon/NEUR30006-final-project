@@ -1,4 +1,4 @@
-# NEUR30006-final-project
+# NEUR30006-final-project-Nov.2022-semester2
 All MNIST dataset created and used for this project can be found here.
 The MNIST traning data is too large, thus cannot be upload here.
 The original MNIST traning dataset is used from https://pjreddie.com/projects/mnist-in-csv
