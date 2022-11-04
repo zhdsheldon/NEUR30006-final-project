@@ -7,4 +7,4 @@ The original MNIST traning dataset is used from https://pjreddie.com/projects/mn
 
 The new MNIST traning dataset for random rotation angles can be created according to code in NEUR30006-final-project_1038588.ipynb
 
-Improvement on project.ipynb includes one method of how to make new image with multiple MNIST digits
+Improvement on project.ipynb includes one method of how to make new image with multiple MNIST digits for object detection and localization tasks.
